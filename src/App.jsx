@@ -98,7 +98,7 @@ function App() {
           <Route path="/dashboard/my-profile" element={<MyProfile />} />
           <Route path="dashboard/Settings" element={<Settings />} />
 
-          {/* Route for student */}
+          {/* Route for students */}
 
           {/* {user?.accountType === ACCOUNT_TYPE.STUDENT && ( */}
           <>
